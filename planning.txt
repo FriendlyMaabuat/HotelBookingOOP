@@ -1,0 +1,9 @@
+Initial Requirements:
+User can see a list of hotels
+User can book a hotel
+User can get a reservation ticket
+
+Classes:
+User (don't need it yet)
+Hotel
+ReservationTicket
